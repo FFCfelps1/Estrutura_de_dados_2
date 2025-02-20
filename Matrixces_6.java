@@ -1,8 +1,8 @@
 public class Main {
 
   public static void main(String[] args) {  
-    exercise6(args);
-    //exercise7(args);
+    //exercise6(args);
+    exercise7(args);
     //exercise8(args);
     //exercise9(args);
     //exercise10(args);
@@ -21,5 +21,3 @@ public class Main {
       System.out.println();
     }
   }
-
-}
