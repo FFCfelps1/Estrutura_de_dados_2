@@ -46,7 +46,7 @@ public class MatrixSymmetryChecker {
             System.out.println("Média de comparações: " + averageComparisons);
             System.out.println("--------------------------------");
         }
-    }
+    }   
 
     private static boolean checkSymmetry(int[][] matrix, Counter counter) {
         int n = matrix.length;
